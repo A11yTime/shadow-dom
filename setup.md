@@ -1,4 +1,4 @@
 ##   npm create vite@latest shadow-html --template vanilla
-###  cd my-vite-html-project
+###  cd hadow-html
 ##  npm install
 ##  npm run dev
